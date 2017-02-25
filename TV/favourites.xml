@@ -1,2 +1,3 @@
 <favourites>
+	<favourite name="Buzz Feed" thumb="special://home/addons/plugin.video.buzzfeed/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.buzzfeed?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.buzzfeed%2Ffanart.jpg%26desc%3DBuzzFeed+Motion+Picture%E2%80%99s+flagship+channel.+Sometimes+funny%2C+sometimes+serious%2C+always+shareable.+New+videos+posted+daily%21%26_options_sf&quot;,return)</favourite>
 </favourites>
