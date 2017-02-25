@@ -1,4 +1,5 @@
 <favourites>
 	<favourite name="Binky TV" thumb="special://home/addons/plugin.video.binkytv/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.binkytv?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.binkytv%2Ffanart.jpg%26desc%3DChannels+for+kids+from+Youtube.%26_options_sf&quot;,return)</favourite>
 	<favourite name="Big Kids" thumb="special://home/addons/plugin.video.bigkids/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.bigkids?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.bigkids%2Ffanart.jpg%26desc%3DAn+addon+by+origin+for+not+so+little+kids.+Visit+http%3A%2F%2Fkodification.co.uk+to+report+any+issues%26_options_sf&quot;,return)</favourite>
+	<favourite name="Animal TV" thumb="special://home/addons/plugin.video.animaltv/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.animaltv?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.animaltv%2Ffanart.jpg%26desc%3DPlease+visit+%5BCOLOR+blue%5Dhttps%3A%2F%2Fwww.tvaddons.ag%5B%2FCOLOR%5D+for+addon+support%21+Watch+live+streams+of+animals+from+around+the+world.%26_options_sf&quot;,return)</favourite>
 </favourites>
