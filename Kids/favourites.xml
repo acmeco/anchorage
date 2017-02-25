@@ -1,3 +1,4 @@
 <favourites>
 	<favourite name="[COLOR yellow]Motor Replays[/COLOR]" thumb="special://home/addons/plugin.video.motorreplays/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.motorreplays?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.motorreplays%2Ffanart.jpg%26desc%3DThe+author+of+this+addon+does+not+own+nor+is+affiliated+in+any+way+with+the+content+providers+%2C+But+is+providing+a+3rd+party+way+to+give+access+to+all+links+provided%26_options_sf&quot;,return)</favourite>
+	<favourite name="[COLOR red]Real-Movies[/COLOR]" thumb="special://home/addons/plugin.video.real-movies/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.real-movies?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.real-movies%2Ffanart.jpg%26desc%3DMovies+to+watch+works+without+real-debrid.+But+more+reliable+with+real-debrid%26_options_sf&quot;,return)</favourite>
 </favourites>
