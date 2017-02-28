@@ -1,0 +1,3 @@
+<favourites>
+	<favourite name="Hallmark Channel" thumb="special://home/addons/plugin.video.hallmark/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.hallmark?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.hallmark%2Ffanart.jpg%26desc%3DHallmark+Channel.+The+channel%27s+programming+is+primarily+targeted+at+families%2C+and+features+a+mix+of+television+movies+and+miniseries%2C+original+and+acquired+television+series%2C+and+lifestyle+programs.%26_options_sf&quot;,return)</favourite>
+</favourites>
