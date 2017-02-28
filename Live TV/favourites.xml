@@ -1,7 +1,0 @@
-<favourites>
-	<favourite name="DIY HD" thumb="special://home/addons/plugin.video.uiptv/icon.png">PlayMedia(&quot;plugin://plugin.video.uiptv/?url=http%3A%2F%2Fok1.se%3A8000%2Flive%2Fsubaru%2Fsubaru%2F329.ts&amp;mode=3&amp;name=DIY+HD%0D&amp;sf_options=winID%3D10025%26_options_sf&quot;)</favourite>
-	<favourite name="NFL NETWORK HD" thumb="special://home/addons/plugin.video.uiptv/icon.png">PlayMedia(&quot;plugin://plugin.video.uiptv/?url=http%3A%2F%2Fok1.se%3A8000%2Flive%2Fsubaru%2Fsubaru%2F157.ts&amp;mode=3&amp;name=NFL+NETWORK+HD%0D&amp;sf_options=winID%3D10025%26_options_sf&quot;)</favourite>
-	<favourite name="CNN HD" thumb="special://home/addons/plugin.video.uiptv/icon.png">PlayMedia(&quot;plugin://plugin.video.uiptv/?url=http%3A%2F%2Fok1.se%3A8000%2Flive%2Fsubaru%2Fsubaru%2F360.ts&amp;mode=3&amp;name=CNN+HD%0D&amp;sf_options=winID%3D10025%26_options_sf&quot;)</favourite>
-	<favourite name="AutoIPTV" thumb="special://home/addons/plugin.video.aiptv/icon.png">ActivateWindow(10025,&quot;plugin://plugin.video.aiptv/?content_type=video&amp;sf_options=desc%3DWeeeee%21%26_options_sf&quot;,return)</favourite>
-	<favourite name="ABC, CBS, CW, FOX, NBC, PBS" thumb="special://home/addons/plugin.video.ustvnow.tva/resources/images/skins/0/tv.png">ActivateWindow(10025,&quot;plugin://plugin.video.ustvnow.tva/?mode=live&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.ustvnow.tva%2Ffanart.jpg%26_options_sf&quot;,return)</favourite>
-</favourites>
