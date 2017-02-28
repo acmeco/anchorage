@@ -1,0 +1,3 @@
+<favourites>
+	<favourite name="moviestoprated2" thumb="special://home/addons/script.zen.artwork/resources/media/zen/most-viewed.png">ActivateWindow(10025,&quot;plugin://plugin.video.zen/?action=movies&amp;url=views&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fscript.zen.artwork%2Fresources%2Fmedia%2Fzen%2Ffanart.jpg%26_options_sf&quot;,return)</favourite>
+</favourites>
